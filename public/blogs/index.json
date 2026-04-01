@@ -1,17 +1,5 @@
 [
   {
-    "slug": "rendering-spline",
-    "title": "渲染类似 Spline 的清新风格",
-    "tags": [
-      "Threejs"
-    ],
-    "date": "2026-03-30T16:30",
-    "summary": "渲染真实不容易啊",
-    "cover": "/blogs/rendering-spline/5f7521ad156f2439.webp",
-    "hidden": false,
-    "category": ""
-  },
-  {
     "slug": "draggable-card-3",
     "title": "3D吊牌 - 优化实现",
     "tags": [
@@ -234,16 +222,6 @@
     "cover": "/blogs/wave-ball/86d118420c399cdb.webp",
     "hidden": false,
     "category": "代码实现"
-  },
-  {
-    "slug": "fish-animation",
-    "title": "鱼鱼动画",
-    "tags": [],
-    "date": "2026-01-12T10:43",
-    "summary": "规划草稿",
-    "cover": "https://www.yysuni.com/images/pictures/b346636da687740b.webp",
-    "hidden": true,
-    "category": ""
   },
   {
     "slug": "love-island",
